@@ -12,7 +12,7 @@ const Navli = (props) => <li> <a href={`${props.li.link}`} className={props.li.a
     }
 </li> 
 
-
+const test =()=> {console.log("test")}
 function Navbar () {
 return (
 <nav className ="navbar">
