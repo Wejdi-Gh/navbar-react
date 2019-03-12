@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-  "homepage": "https://wejdi-gh.github.io/-Navbar-React-",
+  "homepage": "https://wejdi-gh.github.io/-Navbar-React-/", 
     "gh-pages": "^2.0.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
