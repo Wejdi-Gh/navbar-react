@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.a69f8e86.chunk.css",
-  "main.js": "/static/js/main.b0b62252.chunk.js",
-  "main.js.map": "/static/js/main.b0b62252.chunk.js.map",
-  "static/js/1.a852b0eb.chunk.js": "/static/js/1.a852b0eb.chunk.js",
-  "static/js/1.a852b0eb.chunk.js.map": "/static/js/1.a852b0eb.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.a69f8e86.chunk.css.map": "/static/css/main.a69f8e86.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ab9c9ebd862c7a102365027641a1362b.js": "/precache-manifest.ab9c9ebd862c7a102365027641a1362b.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/navbar-react/static/css/main.a69f8e86.chunk.css",
+  "main.js": "/navbar-react/static/js/main.e8c444c1.chunk.js",
+  "main.js.map": "/navbar-react/static/js/main.e8c444c1.chunk.js.map",
+  "static/js/1.a852b0eb.chunk.js": "/navbar-react/static/js/1.a852b0eb.chunk.js",
+  "static/js/1.a852b0eb.chunk.js.map": "/navbar-react/static/js/1.a852b0eb.chunk.js.map",
+  "runtime~main.js": "/navbar-react/static/js/runtime~main.445cae57.js",
+  "runtime~main.js.map": "/navbar-react/static/js/runtime~main.445cae57.js.map",
+  "static/css/main.a69f8e86.chunk.css.map": "/navbar-react/static/css/main.a69f8e86.chunk.css.map",
+  "index.html": "/navbar-react/index.html",
+  "precache-manifest.331da493e3146427a0a25240afeb9618.js": "/navbar-react/precache-manifest.331da493e3146427a0a25240afeb9618.js",
+  "service-worker.js": "/navbar-react/service-worker.js"
 }
